@@ -1,13 +1,13 @@
 #+TITLE: [[https://github.com/hlissner/doom-emacs][Doom Emacs]]
 
 * Installation
-- Fetch from Github
+1. Fetch from Github
 #+BEGIN_SRC
 git clone --depth 1 https://github.com/hlissner/doom-emacs ~/.emacs.d
 ~/.emacs.d/bin/doom install
 #+END_SRC
 
-- Add doom to your command line in =~/.zshrc= :
+2. Add doom to your command line in =~/.zshrc=:
 #+BEGIN_SRC
 export PATH=$PATH:~/.emacs.d/bin
 #+END_SRC
