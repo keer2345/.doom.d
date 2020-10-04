@@ -1,16 +1,17 @@
 #+TITLE: [[https://github.com/hlissner/doom-emacs][Doom Emacs]]
 
 * Installation
-1. Fetch from Github
+- Fetch from Github
 #+BEGIN_SRC
 git clone --depth 1 https://github.com/hlissner/doom-emacs ~/.emacs.d
 ~/.emacs.d/bin/doom install
 #+END_SRC
 
-2. Add doom to your command line in =~/.zshrc=:
+- Add doom to your command line in =~/.zshrc=:
 #+BEGIN_SRC
 export PATH=$PATH:~/.emacs.d/bin
 #+END_SRC
+
 * Document
 - [[https://www.ianjones.us/doom-emacs][Doom Emacs Little Guide]]
 - [[https://zacjones.io/what-is-emacs][What is (Doom) Emacs?]]
@@ -24,6 +25,9 @@ export PATH=$PATH:~/.emacs.d/bin
 - [[https://github.com/ztlevi/doom-config][ztlevi/doom-config]]
 
 * Configuration
+** Package management
+It uses its own declarative package manager built on top of [[https://github.com/raxod502/straight.el][straight.el]].
+
 ** Themes
 If we want to use [[https://draculatheme.com/doom-emacs/][Dracula theme]] in *Doom Emacs*:
 1. Open your =.doom.d/config.el=;
