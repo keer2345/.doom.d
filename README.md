@@ -16,7 +16,10 @@ export PATH=$PATH:~/.emacs.d/bin
 
 ``` shell
 doom sync
+doom upgrade
+doom doctor
 doom env
+doom build
 ```
 
 ## Document
@@ -27,9 +30,11 @@ doom env
 - [Migrating from Emacs to Doom](https://irreal.org/blog/?p=8744)
 - [Literate doom-emacs config](https://rgoswami.me/dotdoom/config.html)
 - [Switching to Doom Emacs](https://www.ethanaa.com/blog/switching-to-doom-emacs/#why-the-switch)
-* Private Configuration
+
+## Private Configuration
 - [forrestchang/.doom.d](https://github.com/forrestchang/.doom.d/)
 - [ztlevi/doom-config](https://github.com/ztlevi/doom-config)
+- [haditim/.doom.d](https://github.com/haditim/.doom.d)
 
 ## Configuration
 ### Package management

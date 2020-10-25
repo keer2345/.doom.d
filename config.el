@@ -3,6 +3,10 @@
 ;; Place your private configuration here! Remember, you do not need to run 'doom
 ;; sync' after modifying this file!
 
+(setq package-archives '(("gnu"   . "http://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
+                         ("melpa" . "http://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+                         ;; ("marmalade" . "http://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
+                         ("org" . "http://mirrors.tuna.tsinghua.edu.cn/elpa/org/")))
 
 ;; Some functionality uses this to identify you, e.g. GPG configuration, email
 ;; clients, file templates and snippets.
