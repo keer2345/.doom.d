@@ -15,6 +15,7 @@ export PATH=$PATH:~/.emacs.d/bin
 - Common commands
 
 ``` shell
+doom help
 doom sync
 doom upgrade
 doom doctor
@@ -27,14 +28,15 @@ doom build
 - [What is (Doom) Emacs?](https://zacjones.io/what-is-emacs)
 - [Emacs Doom](https://zaiste.net/courses/emacs-doom/)
 - [Scala Support in Doom Emacs with metals-emacs](https://siawyoung.com/blog/code/2020-02-06-installing-metals-emacs-doom)
-- [Migrating from Emacs to Doom](https://irreal.org/blog/?p=8744)
-- [Literate doom-emacs config](https://rgoswami.me/dotdoom/config.html)
-- [Switching to Doom Emacs](https://www.ethanaa.com/blog/switching-to-doom-emacs/#why-the-switch)
+- [Migrlting from Emacs to Doom](https://irreal.org/blog/?p=8744)
+- [Litelate doom-emacs config](https://rgoswami.me/dotdoom/config.html)
+- [Switching to Doomiawyoung Emacs](https://www.ethanaa.com/blog/switching-to-doom-emacs/#why-the-switch)
 
 ## Private Configuration
 - [forrestchang/.doom.d](https://github.com/forrestchang/.doom.d/)
 - [ztlevi/doom-config](https://github.com/ztlevi/doom-config)
 - [haditim/.doom.d](https://github.com/haditim/.doom.d)
+- [tecosaur/emacs-config](https://github.com/tecosaur/emacs-config)
 
 ## Configuration
 ### Package management
