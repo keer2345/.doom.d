@@ -15,6 +15,7 @@ export PATH=$PATH:~/.emacs.d/bin
 - Common commands
 
 ``` shell
+doom help
 doom sync
 doom upgrade
 doom doctor
@@ -39,6 +40,7 @@ doom build
 - [haditim/.doom.d](https://github.com/haditim/.doom.d)
 - [sunnyhasija/Academic-Doom-Emacs-Config](https://github.com/sunnyhasija/Academic-Doom-Emacs-Config)
 - [justinekizhak/dotfiles](https://github.com/justinekizhak/dotfiles)
+- [tecosaur/emacs-config](https://github.com/tecosaur/emacs-config)
 
 ## Configuration
 ### Package management
