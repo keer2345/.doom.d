@@ -23,6 +23,7 @@ doom build
 ```
 
 ## Document
+- [Doom emacs literate config](https://www.reddit.com/r/emacs/comments/empzmz/doom_emacs_literate_config/)
 - [Doom Emacs Little Guide](https://www.ianjones.us/doom-emacs)
 - [What is (Doom) Emacs?](https://zacjones.io/what-is-emacs)
 - [Emacs Doom](https://zaiste.net/courses/emacs-doom/)
@@ -30,11 +31,14 @@ doom build
 - [Migrating from Emacs to Doom](https://irreal.org/blog/?p=8744)
 - [Literate doom-emacs config](https://rgoswami.me/dotdoom/config.html)
 - [Switching to Doom Emacs](https://www.ethanaa.com/blog/switching-to-doom-emacs/#why-the-switch)
+- [dotDOOM](https://dotdoom.rgoswami.me)
 
 ## Private Configuration
 - [forrestchang/.doom.d](https://github.com/forrestchang/.doom.d/)
 - [ztlevi/doom-config](https://github.com/ztlevi/doom-config)
 - [haditim/.doom.d](https://github.com/haditim/.doom.d)
+- [sunnyhasija/Academic-Doom-Emacs-Config](https://github.com/sunnyhasija/Academic-Doom-Emacs-Config)
+- [justinekizhak/dotfiles](https://github.com/justinekizhak/dotfiles)
 
 ## Configuration
 ### Package management
