@@ -14,6 +14,7 @@
 (setq doom-light-themes '("doom-one-light" "doom-gruvbox-light" "doom-solarized-light" "doom-flatwhite"))
 
 (defun kr/load-dark-theme ()
+  "Load dark theme"
   (interactive)
   (let* ((themes doom-dark-themes)
          (first-theme (car doom-dark-themes)))
@@ -25,6 +26,7 @@
     (add-to-list 'doom-dark-themes first-theme t)))
 
 (defun kr/load-light-theme ()
+  "Load light theme"
   (interactive)
   (let* ((themes doom-light-themes)
          (first-theme (car doom-light-themes)))
