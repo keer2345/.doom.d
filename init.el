@@ -14,11 +14,6 @@
 ;;      Alternatively, press 'gd' (or 'C-c c d') on a module to browse its
 ;;      directory (for easy access to its source code).
 
-(setq package-archives '(("gnu"   . "http://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
-                         ("melpa" . "http://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
-                         ;; ("marmalade" . "http://mirrors.tuna.tsinghua.edu.cn/elpa/marmalade/")
-                         ("org" . "http://mirrors.tuna.tsinghua.edu.cn/elpa/org/")))
-
 (doom! :input
        ;;chinese
        ;;japanese
