@@ -38,7 +38,6 @@
 
 
 (load! "common/ui.el")
-(load! "lang/lisp.el")
 
 ;; Here are some additional functions/macros that could help you configure Doom:
 ;;
