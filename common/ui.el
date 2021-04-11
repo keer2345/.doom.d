@@ -52,5 +52,5 @@
     (message "Current random doom-* theme is: %s" theme)
     (setq doom-theme theme)))
 
-;; Get random doom-* themes on Emacs startup
+;; Get random themes on Emacs startup
 (setq doom-theme (random-choice (custom-available-themes)))
